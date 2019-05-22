@@ -20,3 +20,7 @@ Sample Tutorial : https://www.atlassian.com/git/tutorials/install-git
 # Download this assignment and mark as done on all points. 
 
 # Sample program to print hello.
+
+
+# Otherways to use python 
+- Anaconda and Juptyer Lab
