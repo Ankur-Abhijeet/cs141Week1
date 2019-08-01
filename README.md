@@ -23,4 +23,4 @@ Sample Tutorial : https://www.atlassian.com/git/tutorials/install-git
 
 
 * Otherways to use python 
-- Anaconda and Juptyer Lab
+** Anaconda and Juptyer Lab
